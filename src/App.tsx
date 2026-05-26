@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import Calculadora from './Calculadora';
+import Calculadora from './pages/Calculadora';
 
 export default function App() {
   return (
